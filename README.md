@@ -25,9 +25,8 @@ A responsive and user-friendly desktop **Countdown Timer** application built wit
 
 ### 📦 How to Download
 
-There are two ways to get the project:
 
-#### 🔹 Option 1: Clone via Git (recommended)
+#### 🔹 Clone via Git
 ```bash
 git clone https://github.com//3bwahab/countdown-timer.git
 cd countdown-timer
